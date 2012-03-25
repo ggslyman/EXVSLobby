@@ -1,0 +1,5 @@
+www:
+    type: php
+    approot: cake2_1/app/webroot
+mysql:
+    type: mysql
